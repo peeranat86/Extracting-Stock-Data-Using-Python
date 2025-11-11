@@ -19,19 +19,6 @@ The main example uses **Apple Inc. (AAPL)** as the stock of interest.
 
 ---
 
-## Table of Contents
-
-1. [Introduction](#-introduction)  
-2. [Libraries Used](#-libraries-used)  
-3. [Extracting Stock Data](#-extracting-stock-data)  
-4. [Analyzing Historical Data](#-analyzing-historical-data)  
-5. [Extracting Dividend Information](#-extracting-dividend-information)  
-6. [Exercises](#-exercises)  
-7. [Results](#-results)  
-8. [References](#-references)
-
----
-
 ## Libraries Used
 
 This notebook uses the following Python libraries:
